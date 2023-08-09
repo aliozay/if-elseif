@@ -1,0 +1,15 @@
+/Users/aliozay/Documents/Pratikler/if-elseif/bin/Debug/net7.0/if-elseif
+/Users/aliozay/Documents/Pratikler/if-elseif/bin/Debug/net7.0/if-elseif.deps.json
+/Users/aliozay/Documents/Pratikler/if-elseif/bin/Debug/net7.0/if-elseif.runtimeconfig.json
+/Users/aliozay/Documents/Pratikler/if-elseif/bin/Debug/net7.0/if-elseif.dll
+/Users/aliozay/Documents/Pratikler/if-elseif/bin/Debug/net7.0/if-elseif.pdb
+/Users/aliozay/Documents/Pratikler/if-elseif/obj/Debug/net7.0/if-elseif.csproj.AssemblyReference.cache
+/Users/aliozay/Documents/Pratikler/if-elseif/obj/Debug/net7.0/if-elseif.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aliozay/Documents/Pratikler/if-elseif/obj/Debug/net7.0/if-elseif.AssemblyInfoInputs.cache
+/Users/aliozay/Documents/Pratikler/if-elseif/obj/Debug/net7.0/if-elseif.AssemblyInfo.cs
+/Users/aliozay/Documents/Pratikler/if-elseif/obj/Debug/net7.0/if-elseif.csproj.CoreCompileInputs.cache
+/Users/aliozay/Documents/Pratikler/if-elseif/obj/Debug/net7.0/if-elseif.dll
+/Users/aliozay/Documents/Pratikler/if-elseif/obj/Debug/net7.0/refint/if-elseif.dll
+/Users/aliozay/Documents/Pratikler/if-elseif/obj/Debug/net7.0/if-elseif.pdb
+/Users/aliozay/Documents/Pratikler/if-elseif/obj/Debug/net7.0/if-elseif.genruntimeconfig.cache
+/Users/aliozay/Documents/Pratikler/if-elseif/obj/Debug/net7.0/ref/if-elseif.dll
